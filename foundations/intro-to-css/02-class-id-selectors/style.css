@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+
+#blue{
+ color :blue;
+ font-size : 36px;
+}
+#green{
+    background-color: lightgreen;
+    font-size :24px;
+    font-weight: bold;
+}
+.odd{
+    background-color:lightpink;
+    font-family: Verdana, Dejavu Sans , sans-serif;
+    
+}
+.unique{
+    font-size: 24px;
+} 
